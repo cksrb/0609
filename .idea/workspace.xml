@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38240ff3-1838-4c7c-a41c-29a347824567" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/img/avataaars.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/img/portfolio/cabin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/img/portfolio/cake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/img/portfolio/circus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/img/portfolio/game.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/img/portfolio/safe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/img/portfolio/submarine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/js/scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +82,16 @@
       <workItem from="1652957227803" duration="2628000" />
       <workItem from="1652959894081" duration="2274000" />
       <workItem from="1653279428094" duration="220000" />
+      <workItem from="1654771581856" duration="336000" />
     </task>
+    <task id="LOCAL-00001" summary="Changes">
+      <created>1654771698186</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654771698186</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,5 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
 </project>
